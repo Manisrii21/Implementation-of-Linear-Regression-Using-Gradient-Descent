@@ -9,14 +9,12 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Algorithm
 ```
-STEP 1: Start
-STEP 2: Initialize parameters
-STEP 3: Create feature matrix
-STEP 4: Calculate predictions
-STEP 5: Claculate erros
-STEP 6: Update weights
-STEP 7: Repeat
-STEP 8: End
+Step-1: Start
+Step-2: Intialize weights randomly. 
+Step-3: Compute predicted. 
+Step-4: Compute gradient of loss function.
+Step-5: Update weights using gradient descent.
+Step-6: End
 ```
 ## Program:
 ```
@@ -57,7 +55,9 @@ Y1_Scaled=scaler.fit_transform(y)
 print(X)
 
 print(X1_Scaled)
+
 ```
+
 
 ## Output:
 ![Screenshot 2024-08-29 171800](https://github.com/user-attachments/assets/de3a1564-3fbc-422e-b19e-a11b9b2da036)
