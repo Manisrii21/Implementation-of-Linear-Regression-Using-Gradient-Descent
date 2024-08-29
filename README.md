@@ -64,5 +64,6 @@ print(X1_Scaled)
 
 ![Screenshot 2024-08-29 172041](https://github.com/user-attachments/assets/a80ff115-6575-403a-9281-2b1ba6442a4b)
 
+
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
