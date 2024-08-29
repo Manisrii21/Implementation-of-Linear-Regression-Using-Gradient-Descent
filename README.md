@@ -54,6 +54,7 @@ Y1_Scaled=scaler.fit_transform(y)
 print(X)
 
 print(X1_Scaled)
+```
 ## Output:
 ![Screenshot 2024-08-29 171800](https://github.com/user-attachments/assets/de3a1564-3fbc-422e-b19e-a11b9b2da036)
 
