@@ -22,7 +22,7 @@ Program to implement the linear regression using gradient descent.
 Developed by: MANI SRI LATHA.M
 RegisterNumber: 212223110025
 */
-```
+
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
