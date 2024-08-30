@@ -62,9 +62,6 @@ print(X1_Scaled)
 ## Output:
 ![Screenshot 2024-08-29 171800](https://github.com/user-attachments/assets/de3a1564-3fbc-422e-b19e-a11b9b2da036)
 
-![Screenshot 2024-08-29 171947](https://github.com/user-attachments/assets/5f10d1e0-1391-444a-82ec-82142ffe92ae)
-
-![Screenshot 2024-08-29 172327](https://github.com/user-attachments/assets/005e6adc-f19f-435b-80bd-b611b5ded98c)
 
 ![Screenshot 2024-08-29 172041](https://github.com/user-attachments/assets/a80ff115-6575-403a-9281-2b1ba6442a4b)
 
